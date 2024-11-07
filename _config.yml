@@ -1,0 +1,17 @@
+title: Poojitha Nandigam
+description: Exploring, Building, and Sharing What I Learn
+url: "https://poojithansl.github.io/"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - README.md
